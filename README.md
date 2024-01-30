@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+
+I am a student at the _LSE_ studying < >.
+
+I will use this GitHub profile to showcase my data science skills.
+
+### Interests
+
+- Python 
+- Data Science
+- < >
