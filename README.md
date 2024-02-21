@@ -27,9 +27,3 @@ I will use this GitHub profile to showcase my data science skills.
 - Data Science
 - Something crazy
 
-## My Work
-I first cloned the repository to work with my local machine and use git commands to push it to GitHub. I also did some webscraping from a website and stored in a json file, organised the data in a Dataframe using pandas and stored in csv file, as well as extracted image url of every container in the website.
-
-## My repository structure
-There is the jupiter notebook itself to showcase preprocessing Python script as well as its output.
-There are data in json file, csv file, and images in each directories.
